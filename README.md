@@ -55,10 +55,9 @@ Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo a
 - 1º: Tenha o NODE instalado na sua máquina
 - 2º: Faça o download deste projeto
 - 3º: Com o terminal/prompt abra o diretório deste projeto e instale as dependências `npm i` ou `npm install`
-- 4º: No terminal/prompt execute `npm run dev`
-- 5º: Tenha o back-end da aplicação na sua maquina [upload-ai-server](https://github.com/Anselmo-Dias/upload-ai-server)
-- 6º: Antes de rodar a aplicação confira se seu back-end está executando 
-
+- 4º: Tenha o back-end da aplicação na sua maquina [upload-ai-server](https://github.com/Anselmo-Dias/upload-ai-server)
+- 5º: Antes de rodar a aplicação confira se seu back-end está executando
+- 6º: No terminal/prompt execute `npm run dev`
 
 <br />
 
