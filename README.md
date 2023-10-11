@@ -52,11 +52,12 @@ Uma ferramenta completa, que centraliza o upload de novos vídeos do YouTube adi
 
 Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo abaixo:
 
-- 1º: Tenha o NODE instalado na sua máquina;
-- 2º: Faça o download deste projeto;
+- 1º: Tenha o NODE instalado na sua máquina
+- 2º: Faça o download deste projeto
 - 3º: Com o terminal/prompt abra o diretório deste projeto e instale as dependências `npm i` ou `npm install`
-- 4º: no terminal/prompt execute `npm run dev`
-- 5º: Faça bom proveito
+- 4º: No terminal/prompt execute `npm run dev`
+- 5º: Tenha o back-end da aplicação na sua maquina [upload-ai-server](https://github.com/Anselmo-Dias/upload-ai-server)
+- 6º: Antes de rodar a aplicação confira se seu back-end está executando 
 
 
 <br />
@@ -70,8 +71,6 @@ Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 ## :iphone: Social
 
 Siga - me no instagram
+[instagram](https://www.instagram.com/_anselmo.dev/)
 <br />
-
-- [Instagram](https://www.instagram.com/_anselmo.dev/)
-
 <br />
