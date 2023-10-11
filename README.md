@@ -1,27 +1,77 @@
-# React + TypeScript + Vite
+<br />
+<br />
+<h1 align="center">
+ #     Upload-ai 
+  <br />
+  <br />
+  React | Typescript | node | openai
+</h1>
+  
+<p align="center">
+<!--   <img alt="Anselmo Dias" src="https://img.shields.io/badge/Created%20by%3A-AnselmoDias-%232F74C0" /> -->
+  <img alt="Typescript" src="https://img.shields.io/badge/Main%20lenguage-Typescript-%232F74C0" /> <br />
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-%2398C611" />
+  
+</p> 
+<br />
+<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📓 Resumo
+<br />
 
-Currently, two official plugins are available:
+Uma ferramenta completa, que centraliza o upload de novos vídeos do YouTube adicionando uma camada de inteligência artificial que cria automaticamente títulos, descrições e materiais de acordo com o que você desejar. 💙 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://github.com/Anselmo-Dias/upload-ai/assets/96529532/a44a1aed-4ae1-4cc6-be7d-eeb38303e555" width="700"/>
+<br />
 
-## Expanding the ESLint configuration
+## :bulb: o que foi usado:
+<br />
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+- openai
+- tailwind
+- vercel
+- shadcn/ui
+- fastify
+- React
+- typescript
+- node
+- prisma
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+<br />
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 💡 funcionalidades: 
+- upload de vídeo e criação de transcrição.
+- criação de títulos e descrições.
+- Criação de materiais de acordo com o vídeo enviado para aplicação.
+
+<br />
+
+## 💻 Rodando o projeto na sua maquina
+<br />
+
+Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo abaixo:
+
+- 1º: Tenha o NODE instalado na sua máquina;
+- 2º: Faça o download deste projeto;
+- 3º: Com o terminal/prompt abra o diretório deste projeto e instale as dependências `npm i` ou `npm install`
+- 4º: no terminal/prompt execute `npm run dev`
+- 5º: Faça bom proveito
+
+
+<br />
+
+## :memo: License
+
+Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
+<br />
+<br />
+
+## :iphone: Social
+
+Siga - me no instagram
+<br />
+
+- [Instagram](https://www.instagram.com/_anselmo.dev/)
+
+<br />
